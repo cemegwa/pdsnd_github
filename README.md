@@ -13,4 +13,4 @@ The files used in this program include:
 - **new_york_city.csv**
 
 # Credits
-I will to acknowledge Stack overflow where I took a number of ideas and codes and modified them for my purpose in addition I would like to than `Udacity` `Students Hub` for reviewing and commenting on various aspects of this code. Their suggestions and steers helped me to successfully complete this project.
+I would to acknowledge Stack overflow from where I took a number of ideas and codes and modified them for my purpose. Also I would like to thank `Udacity` `Students Hub` for reviewing and commenting on various aspects of this code. Their suggestions and steers helped me to successfully complete this project.
