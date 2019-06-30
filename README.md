@@ -1,15 +1,16 @@
-### Date created
-Include the date you created this project and README file.
+# **This project was created and submitted on 6/28/2019**
 
-### Project Title
-Replace the Project Title
+# **Bikeshare Data Analytics**
 
-### Description
-Describe what your project is about and what it does
+# **Description**
+This program takes data from the bikeshare database in the 3 states of **Chicago**, **Washington** and **New York** cities and provides users with some basic data analysis.
 
-### Files used
-Include the files used
+# Files used
+The files used in this program include:
+- **bikeshare.py**
+- **chicago.csv**
+- **washington.csv**
+- **new_york_city.csv**
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+# Credits
+I will to acknowledge Stack overflow where I took a number of ideas and codes and modified them for my purpose in addition I would like to than `Udacity` `Students Hub` for reviewing and commenting on various aspects of this code. Their suggestions and steers helped me to successfully complete this project.
