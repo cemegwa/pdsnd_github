@@ -21,5 +21,8 @@ This code is made up of six functions:
 - **trip duration stats function:** Calculates duration statistics
 - **user stats:** Calculates bikeshare user statistics
 
+# Future Improvement
+Future improvement work is to display only five lines of results and to prompts the user to request more data or exit if satisfied.
+
 # Credits
 I would to acknowledge Stack overflow from where I took a number of ideas and codes and modified them for my purpose. Also I would like to thank `Udacity` `Students Hub` for reviewing and commenting on various aspects of this code. Their suggestions and steers helped me to successfully complete this project.
